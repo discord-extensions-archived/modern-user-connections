@@ -66,3 +66,6 @@
 .connectedAccountIcon-3P3V6F[alt*="League of Legends"] + .connectedAccountNameInner-1phBvE { /* League of Legend (LoL) */
     &::after { background-color: #424491; box-shadow: var(--box-shadow) #676AE6; }
 }
+.connectedAccountIcon-3P3V6F[alt*="Skype"] + .connectedAccountNameInner-1phBvE { /* Skype */
+    &::after { background-color: #014d8b; box-shadow: var(--box-shadow) #00AFF0; }
+}
