@@ -33,6 +33,7 @@
 }
 
 
+/* Discord Default */
 .connectedAccountIcon-3P3V6F[alt*="GitHub"] + .connectedAccountNameInner-1phBvE { /* Github */
     &::after { background-color: #24292E; box-shadow: var(--box-shadow) #d9dadb; }
 }
@@ -67,5 +68,14 @@
     &::after { background-color: #424491; box-shadow: var(--box-shadow) #676AE6; }
 }
 .connectedAccountIcon-3P3V6F[alt*="Skype"] + .connectedAccountNameInner-1phBvE { /* Skype */
-    &::after { background-color: #014d8b; box-shadow: var(--box-shadow) #00AFF0; }
+    &::after { background-color: #424491; box-shadow: var(--box-shadow) #676AE6; }
+}
+
+
+/* Better User Connections Plugin Support */ 
+.connectedAccountIcon-3P3V6F[alt*="GitLab"] + .connectedAccountNameInner-1phBvE { /* GitLab */
+    &::after { background-color: #8f2b1b; box-shadow: var(--box-shadow) #FCA326; }
+}
+.connectedAccountIcon-3P3V6F[alt*="Minecraft"] + .connectedAccountNameInner-1phBvE { /* Minecraft */
+    &::after { background-color: #2a4911; box-shadow: var(--box-shadow) #70B237; }
 }
