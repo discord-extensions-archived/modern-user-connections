@@ -17,4 +17,4 @@ git pull
 # Credits
 Ty to Hoofer#0001 for reminding me that im a dumbass and did dumbass things, but it made me grow a brain in the process <3
 
-Ty to THE Bowser65#0001 THEMSELVES for finding me a user who has a facebook connection, and to Nyria#0001 for finding me a user who has a LoL (League of Legends) connection <3
+Ty to THE Bowser65#0001 THEMSELVES for finding me a user who has a facebook connection, ty Nyria#0001 for finding me a user who has a LoL (League of Legends) connection, and ty to Ben855#0855 for finding me a user who has a Skype connection <3
