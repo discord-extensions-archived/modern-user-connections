@@ -79,3 +79,9 @@
 .connectedAccountIcon-3P3V6F[alt*="Minecraft"] + .connectedAccountNameInner-1phBvE { /* Minecraft */
     &::after { background-color: #2a4911; box-shadow: var(--box-shadow) #70B237; }
 }
+
+
+/* discord.bio Plugin Support */
+.connectedAccountIcon-3P3V6F[alt*="discord.bio"] + .connectedAccountNameInner-1phBvE {
+    &::after { background-color: #3d4870; box-shadow: var(--box-shadow) #7289da; }
+}
