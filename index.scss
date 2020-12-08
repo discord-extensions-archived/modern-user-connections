@@ -6,9 +6,7 @@
     background-color: rbga(0, 0, 0, 0);
     border-width: 0;
 
-    & > .connectedAccountIcon-3P3V6F {
-        z-index: 1;
-    }
+    & > .connectedAccountIcon-3P3V6F { z-index: 1; }
 
     & > .connectedAccountNameInner-1phBvE {
         &::after {
@@ -18,15 +16,13 @@
             margin-left: -35px;
             height: 46px;
             width: 44%;
-            background-color: var(--connection-background); 
-            box-shadow: -2px 0 0 0 var(--connection-border); 
+            background-color: var(--connection-background);
+            box-shadow: -2px 0 0 0 var(--connection-border);
         }
 
-        & + a.anchor-3Z-8Bb {
-            z-index: 1;
-        }
+        & > .connectedAccountName-f8AEe2, + .anchor-3Z-8Bb { z-index: 1; }
 
-        & > .connectedAccountName-f8AEe2, > .connectedAccountName-f8AEe2 + span {
+        & > span {
             z-index: 1;
 
             & > .flowerStarContainer-3zDVtj > svg > path {
