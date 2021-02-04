@@ -37,3 +37,5 @@ Ty to [@Hoofer](https://github.com/HooferDevelops) for reminding me that im a du
 Ty to [@Cynthia](https://github.com/cyyynthia) for finding me a user who has a facebook connection, ty [@Nyria](https://github.com/NYRI4) for finding me a user who has a LoL (League of Legends) connection, and ty to [@Ben855](https://github.com/BenSegal855) for finding me a user who has a Skype connection <3
 
 Ty to [@Tropical](https://github.com/Tropix126) for giving me the big brain knowledge to better improve my code <3
+
+big pog thank you to [@snapper](https://github.com/snappercord/) for all of the inspiration with me rewriting every repo i have basically!!!1
