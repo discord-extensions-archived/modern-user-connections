@@ -17,12 +17,12 @@ git clone https://github.com/LuckFire/Nicer-User-Connections
 ```
 
 **For BetterDiscord**:
-- [Direct Download soon:tm:]()
-- [View Source soon:tm:]()
+- [Direct Download](https://betterdiscord.net/ghdl?id=3479)
+- [View Source](https://raw.githack.com/LuckFire/Nicer-User-Connections/main/src/NicerUserConections.theme.css)
 
 **For Browser / Web:**
 1. Install the Stylus extension for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus).
-2. After installing, head over to [this link soon:tm:]().
+2. After installing, head over to [this link](https://raw.githack.com/LuckFire/Nicer-User-Connections/main/src/NicerUserConections.user.css).
 3. Press the "Install Style" button.
 
 # Updating for Powercord
