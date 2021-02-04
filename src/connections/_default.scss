@@ -1,0 +1,49 @@
+#app-mount .connectedAccountIcon-3P3V6F {
+    &[alt="GitHub Logo"] { // Github
+        @include connection(#24292E, #d9dadb);
+    }
+
+    &[alt="Twitch Logo"] { // Twitch
+        @include connection(#3a2b5f, #9059F6);
+    }
+
+    &[alt="Steam Logo"] { // Steam
+        @include connection(#171A21, #3b587c);
+    }
+
+    &[alt="Spotify Logo"] { // Spotify
+        @include connection(#138139, #1ED760);
+    }
+
+    &[alt="Twitter Logo"] { // Twitter
+        @include connection(#0C5886, #76C5F5);
+    }
+
+    &[alt="Reddit Logo"] { // REddit
+        @include connection(#81340e, #FF6314);
+    }
+
+    &[alt="YouTube Logo"] { // YouTube
+        @include connection(#6d1616, #EE0F0F);
+    }
+
+    &[alt="Battle.net Logo"] { // Battle.net
+        @include connection(#175266, #3AB1DA);
+    }
+
+    &[alt="Xbox Live Logo"] { // Xbox Live
+        @include connection(#1c632a, #77BB44);
+    }
+
+    &[alt="Facebook Logo"] { // Facebook
+        @include connection(#14223d, #3A5998);
+    }
+
+    &[alt="League of Legends Logo"] { // League of Legends
+        @include connection(#424491, #676AE6);
+    }
+
+    &[alt="Skype Logo"] { // Skype
+        @include connection(#424491, #676AE6);
+    }
+}

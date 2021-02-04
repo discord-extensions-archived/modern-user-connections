@@ -1,0 +1,9 @@
+#app-mount .connectedAccountIcon-3P3V6F { 
+    &[alt="GitLab Logo"] { // GitLab
+        @include connection(#8f2b1b, #FCA326);
+    }
+
+    &[alt="Minecraft Logo"] { // Minecraft 
+        @include connection(#2a4911, #70B237);
+    }
+}
