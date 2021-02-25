@@ -1,7 +1,7 @@
 @import "./mixins";
 
-@import "./connections/account";
-@import "./connections/default.scss";
+@import "./main/account";
+@import "./main/default";
 
-@import "./connections/plugin-support/better-user-connections";
-@import "./connections/plugin-support/discord.bio";
+@import "./main/plugin-support/better-user-connections";
+@import "./main/plugin-support/discord.bio";

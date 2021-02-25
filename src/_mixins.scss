@@ -1,5 +1,5 @@
 @mixin connection($connectionBG, $connectionBorder) {
-    + .connectedAccountNameInner-1phBvE::after { /* Github */
+    + .connectedAccountNameInner-1phBvE::after {
         background-color: $connectionBG;
         box-shadow: -2px 0 0 0 $connectionBorder;
     }

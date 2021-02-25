@@ -1,16 +1,16 @@
 #app-mount {
     .connectedAccount-36nQx7 {
-        background-color: rbga(0, 0, 0, 0);
-        border-width: 0;
+        background-color: transparent;
+        border: none;
     
         .connectedAccountNameInner-1phBvE {
             &::after {
                 content: "";
                 position: absolute;
                 border-radius: 1px 3px 3px 1px;
-                margin-left: -35px;
+                margin-left: -36px;
                 height: 46px;
-                width: 44%;
+                width: 260px;
             }
         }
     }

@@ -1,3 +1,6 @@
+# v1.2.5
+Repo renmame as well as slight tweaks.
+
 # v1.2.4
 Some small yet kinda big changes.
 - Redid the sorting for basically everything, usin' some mixins now to fuel my laziness.
