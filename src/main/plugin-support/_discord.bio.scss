@@ -1,3 +1,3 @@
-#app-mount .connectedAccountIcon-3P3V6F[alt="discord.bio Logo"] {
-    @include connection(#3d4870, #7289da);
+#app-mount {
+    @include connection(discord\.bio, #3d4870, #7289da);
 }

@@ -1,3 +1,6 @@
+# v1.2.6
+Learnt something new: can have a variable in a mixin. I've changed it to where the mixins make use of this feature, which makes everything look a bit nicer.
+
 # v1.2.5
 Repo renmame as well as slight tweaks.
 

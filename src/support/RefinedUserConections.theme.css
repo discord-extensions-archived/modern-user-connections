@@ -1,6 +1,6 @@
 /**
-    * @name Refined User Area
-    * @version 1.2.5
+    * @name Refined User Connections
+    * @version 1.2.6
     * @description Adds a bit of a boom-shaka-laka to those user connections.
     * @author LuckFire#4800
     *
@@ -34,65 +34,65 @@
     z-index: 1;
 }
   
-#app-mount .connectedAccountIcon-3P3V6F[alt="GitHub Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="GitHub Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #24292E;
     box-shadow: -2px 0 0 0 #d9dadb;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Twitch Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Twitch Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #3a2b5f;
     box-shadow: -2px 0 0 0 #9059F6;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Steam Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Steam Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #171A21;
     box-shadow: -2px 0 0 0 #3b587c;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Spotify Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Spotify Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #138139;
     box-shadow: -2px 0 0 0 #1ED760;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Twitter Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Twitter Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #0C5886;
     box-shadow: -2px 0 0 0 #76C5F5;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Reddit Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Reddit Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #81340e;
     box-shadow: -2px 0 0 0 #FF6314;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="YouTube Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="YouTube Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #6d1616;
     box-shadow: -2px 0 0 0 #EE0F0F;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Battle.net Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Battle.net Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #175266;
     box-shadow: -2px 0 0 0 #3AB1DA;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Xbox Live Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Xbox Live Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #1c632a;
     box-shadow: -2px 0 0 0 #77BB44;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Facebook Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Facebook Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #14223d;
     box-shadow: -2px 0 0 0 #3A5998;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="League of Legends Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="League of Legends Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #424491;
     box-shadow: -2px 0 0 0 #676AE6;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Skype Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Skype Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #424491;
     box-shadow: -2px 0 0 0 #676AE6;
 }
   
-#app-mount .connectedAccountIcon-3P3V6F[alt="GitLab Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="GitLab Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #8f2b1b;
     box-shadow: -2px 0 0 0 #FCA326;
 }
-#app-mount .connectedAccountIcon-3P3V6F[alt="Minecraft Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="Minecraft Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #2a4911;
     box-shadow: -2px 0 0 0 #70B237;
 }
   
-#app-mount .connectedAccountIcon-3P3V6F[alt="discord.bio Logo"] + .connectedAccountNameInner-1phBvE::after {
+#app-mount [alt="discord.bio Logo"] + .connectedAccountNameInner-1phBvE::after {
     background-color: #3d4870;
     box-shadow: -2px 0 0 0 #7289da;
 }
