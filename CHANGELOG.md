@@ -1,5 +1,17 @@
 # v1.2.6
-Learnt something new: can have a variable in a mixin. I've changed it to where the mixins make use of this feature, which makes everything look a bit nicer.
+I learnt something new with mixins: you can have varaibles inside of attributes. I've changed it to where the mixins make use of this feature, which makes everything less of an eye sore and easier to add. Here's an example of that:
+```scss
+// Taking a close look, you can see how this is applied.
+@mixin connection($connectionType, $connectionBG, $connectionBorder) {
+    [alt="#{$connectionType} Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: $connectionBG;
+        box-shadow: -2px 0 0 0 $connectionBorder;
+    }
+}
+                 // $connectionType  $connectionBorder
+@include connection(GitHub, #24292E, #d9dadb);
+                         // $connectionBG
+```
 
 # v1.2.5
 Repo renmame as well as slight tweaks.
