@@ -1,5 +1,5 @@
 # v1.2.7
-Added support for the osu! connection for the Better User Connections plugin.
+Added support for the osu! connection for the Better Connections plugin.
 
 # v1.2.6
 I learnt something new with mixins: you can have varaibles inside of attributes. I've changed it to where the mixins make use of this feature, which makes everything less of an eye sore and easier to add. Here's an example of that:
