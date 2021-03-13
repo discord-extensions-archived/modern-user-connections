@@ -4,7 +4,7 @@
     @description  Adds a bit of a boom-shaka-laka to those user connections.
     @author       LuckFire#400
     @namespace    https://github.com/Discord-Theme-Addons/refined-user-connections
-    @version      1.2.6
+    @version      1.2.7
     ==/UserStyle== */
 
     #app-mount .connectedAccount-36nQx7 {
@@ -32,7 +32,7 @@
     #app-mount .connectedAccountNameInner-1phBvE + .anchor-3Z-8Bb {
         z-index: 1;
     }
-      
+    
     #app-mount [alt="GitHub Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #24292E;
         box-shadow: -2px 0 0 0 #d9dadb;
@@ -81,7 +81,7 @@
         background-color: #424491;
         box-shadow: -2px 0 0 0 #676AE6;
     }
-      
+    
     #app-mount [alt="GitLab Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #8f2b1b;
         box-shadow: -2px 0 0 0 #FCA326;
@@ -90,9 +90,13 @@
         background-color: #2a4911;
         box-shadow: -2px 0 0 0 #70B237;
     }
-      
+    #app-mount [alt="osu! Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #722d4c;
+        box-shadow: -2px 0 0 0 #EE65A2;
+    }
+    
     #app-mount [alt="discord.bio Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #3d4870;
         box-shadow: -2px 0 0 0 #7289da;
-    }    
+    }
 }

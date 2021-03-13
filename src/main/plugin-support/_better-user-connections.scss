@@ -1,4 +1,5 @@
 #app-mount {
     @include connection(GitLab, #8f2b1b, #FCA326);
     @include connection(Minecraft, #2a4911, #70B237);
+    @include connection(osu\!, #722d4c, #EE65A2);
 }
