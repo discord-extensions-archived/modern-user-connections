@@ -4,7 +4,7 @@
     @description  Adds a bit of a boom-shaka-laka to those user connections.
     @author       LuckFire#400
     @namespace    https://github.com/Discord-Theme-Addons/refined-user-connections
-    @version      1.2.7
+    @version      1.2.8
     ==/UserStyle== */
 
     #app-mount .connectedAccount-36nQx7 {
@@ -33,70 +33,70 @@
         z-index: 1;
     }
     
-    #app-mount [alt="GitHub Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #24292E;
+    [alt="GitHub Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #181b1f;
         box-shadow: -2px 0 0 0 #d9dadb;
     }
-    #app-mount [alt="Twitch Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #3a2b5f;
-        box-shadow: -2px 0 0 0 #9059F6;
+    [alt="Twitch Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #3A2E5E;
+        box-shadow: -2px 0 0 0 #563194;
     }
-    #app-mount [alt="Steam Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #171A21;
-        box-shadow: -2px 0 0 0 #3b587c;
+    [alt="Steam Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #171a21;
+        box-shadow: -2px 0 0 0 #2a475e;
     }
-    #app-mount [alt="Spotify Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #138139;
+    [alt="Spotify Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #2C523E;
         box-shadow: -2px 0 0 0 #1ED760;
     }
-    #app-mount [alt="Twitter Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #0C5886;
-        box-shadow: -2px 0 0 0 #76C5F5;
+    [alt="Twitter Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #266994;
+        box-shadow: -2px 0 0 0 #1DA1F2;
     }
-    #app-mount [alt="Reddit Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #81340e;
+    [alt="Reddit Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #7D442A;
         box-shadow: -2px 0 0 0 #FF6314;
     }
-    #app-mount [alt="YouTube Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #6d1616;
+    [alt="YouTube Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #772528;
         box-shadow: -2px 0 0 0 #EE0F0F;
     }
-    #app-mount [alt="Battle.net Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #175266;
-        box-shadow: -2px 0 0 0 #3AB1DA;
+    [alt="Battle.net Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #264659;
+        box-shadow: -2px 0 0 0 #009AE4;
     }
-    #app-mount [alt="Xbox Live Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #1c632a;
-        box-shadow: -2px 0 0 0 #77BB44;
+    [alt="Xbox Live Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #394E31;
+        box-shadow: -2px 0 0 0 #5DC21E;
     }
-    #app-mount [alt="Facebook Logo"] + .connectedAccountNameInner-1phBvE::after {
+    [alt="Facebook Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #14223d;
         box-shadow: -2px 0 0 0 #3A5998;
     }
-    #app-mount [alt="League of Legends Logo"] + .connectedAccountNameInner-1phBvE::after {
+    [alt="League of Legends Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #424491;
         box-shadow: -2px 0 0 0 #676AE6;
     }
-    #app-mount [alt="Skype Logo"] + .connectedAccountNameInner-1phBvE::after {
+    [alt="Skype Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #424491;
         box-shadow: -2px 0 0 0 #676AE6;
     }
     
-    #app-mount [alt="GitLab Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #8f2b1b;
-        box-shadow: -2px 0 0 0 #FCA326;
+    [alt="GitLab Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #6E4330;
+        box-shadow: -2px 0 0 0 #FC6D26;
     }
-    #app-mount [alt="Minecraft Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #2a4911;
-        box-shadow: -2px 0 0 0 #70B237;
+    [alt="Minecraft Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #693037;
+        box-shadow: -2px 0 0 0 #EE303D;
     }
-    #app-mount [alt="osu! Logo"] + .connectedAccountNameInner-1phBvE::after {
-        background-color: #722d4c;
+    [alt="osu! Logo"] + .connectedAccountNameInner-1phBvE::after {
+        background-color: #5F3E51;
         box-shadow: -2px 0 0 0 #EE65A2;
     }
     
-    #app-mount [alt="discord.bio Logo"] + .connectedAccountNameInner-1phBvE::after {
+    [alt="discord.bio Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: #3d4870;
         box-shadow: -2px 0 0 0 #7289da;
-    }
+    }    
 }

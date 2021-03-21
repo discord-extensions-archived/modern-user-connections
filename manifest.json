@@ -1,9 +1,9 @@
 {
     "name": "Refined User Connections",
     "description": "Adds a bit of a boom-shaka-laka to those user connections.",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "author": "LuckFire#4800",
     "theme": "index.scss",
-    "consent": "false",
+    "consent": "true",
     "license": "MIT"
 }

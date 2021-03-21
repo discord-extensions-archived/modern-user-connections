@@ -1,14 +1,12 @@
-#app-mount {
-    @include connection(GitHub, #24292E, #d9dadb);
-    @include connection(Twitch, #3a2b5f, #9059F6);
-    @include connection(Steam, #171A21, #3b587c);
-    @include connection(Spotify, #138139, #1ED760);
-    @include connection(Twitter, #0C5886, #76C5F5);
-    @include connection(Reddit, #81340e, #FF6314);
-    @include connection(YouTube, #6d1616, #EE0F0F);
-    @include connection(Battle\.net, #175266, #3AB1DA);
-    @include connection(Xbox Live, #1c632a, #77BB44);
-    @include connection(Facebook, #14223d, #3A5998);
-    @include connection(League of Legends, #424491, #676AE6);
-    @include connection(Skype, #424491, #676AE6);
-}
+@include connection(GitHub, #181b1f, #d9dadb);
+@include connection(Twitch, #3A2E5E, #563194);
+@include connection(Steam, #171a21, #2a475e);
+@include connection(Spotify, #2C523E, #1ED760);
+@include connection(Twitter, #266994, #1DA1F2);
+@include connection(Reddit, #7D442A, #FF6314);
+@include connection(YouTube, #772528, #EE0F0F);
+@include connection(Battle\.net, #264659, #009AE4);
+@include connection(Xbox Live, #394E31, #5DC21E);
+@include connection(Facebook, #14223d, #3A5998);
+@include connection(League of Legends, #424491, #676AE6);
+@include connection(Skype, #424491, #676AE6);

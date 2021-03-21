@@ -1,5 +1,10 @@
+# v1.2.8
+Some small enhancements.
+- Removed the unnecessary use of #app-mount. This shouldn't really change much.
+- Updated some of the connection colors, original ones looked too virbant. The new colors look less virbant.
+
 # v1.2.7
-Added support for the osu! connection for the Better Connections plugin.
+Added osu! connection support for the **[Better Connections](https://github.com/AAGaming00/better-connections)** plugin.
 
 # v1.2.6
 I learnt something new with mixins: you can have varaibles inside of attributes. I've changed it to where the mixins make use of this feature, which makes everything less of an eye sore and easier to add. Here's an example of that:
