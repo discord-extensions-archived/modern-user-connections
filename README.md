@@ -26,3 +26,4 @@ A big thank you and shout-out to everyone who helped with this!
 - **[Tropical](https://github.com/Tropix126)** for helping me improve the code by giving me a well needed lecture.
 - **[snapper](https://github.com/snappercord/)** for the inspiration of rewriting all my themes READMEs.
 - **[Cynthia](https://github.com/cyyynthia)** for helping me find a user who has a facebook connection, **[Nyria](https://github.com/NYRI4)** for helping me find a user who has a League of Legends connection, and **[Ben855](https://github.com/BenSegal855)** for finding me a user who has a Skype connection
+ayaya
