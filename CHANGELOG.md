@@ -1,3 +1,13 @@
+# v1.3.0
+Now using `@each` instead of `@mixins`. I feel like this is a way better system, tho generally it does the same thing.
+
+Here are some other misc changes:
+- Removed all usage of #app-mount as it's completely unnecessary.
+- Changed to border-left instead of box-shadow.
+- Some adjustments to margin and padding.
+- Changed all rounding to 2px.
+- Some file reconstructing.
+
 # v1.2.8
 Some small enhancements.
 - Removed the unnecessary use of #app-mount. This shouldn't really change much.
@@ -9,7 +19,6 @@ Added osu! connection support for the **[Better Connections](https://github.com/
 # v1.2.6
 I learnt something new with mixins: you can have varaibles inside of attributes. I've changed it to where the mixins make use of this feature, which makes everything less of an eye sore and easier to add. Here's an example of that:
 ```scss
-// Taking a close look, you can see how this is applied.
 @mixin connection($connectionType, $connectionBG, $connectionBorder) {
     [alt="#{$connectionType} Logo"] + .connectedAccountNameInner-1phBvE::after {
         background-color: $connectionBG;

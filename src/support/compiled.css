@@ -1,0 +1,108 @@
+.connectedAccount-36nQx7 {
+    background-color: transparent;
+    border: none;
+}
+.connectedAccount-36nQx7 .connectedAccountNameInner-1phBvE::after {
+    content: "";
+    position: absolute;
+    border-radius: 2px;
+    border-left: solid 2px transparent;
+    margin-left: -40px;
+    height: 46px;
+    width: 260px;
+}
+.connectedAccount-36nQx7 .connectedAccountVerifiedIcon-3aZz_K .flowerStar-1GeTsn path {
+    fill: rgba(255, 255, 255, 0.25);
+}
+.connectedAccount-36nQx7 .connectedAccountVerifiedIcon-3aZz_K .childContainer-1wxZNh {
+    margin-top: 1px;
+}
+.connectedAccount-36nQx7 .connectedAccountIcon-3P3V6F,
+.connectedAccount-36nQx7 .connectedAccountName-f8AEe2,
+.connectedAccount-36nQx7 .connectedAccountNameInner-1phBvE span,
+.connectedAccount-36nQx7 .connectedAccountNameInner-1phBvE + .anchor-3Z-8Bb {
+    z-index: 1;
+}
+.connectedAccount-36nQx7 .connectedAccountIcon-3P3V6F {
+    margin-left: 2px;
+}
+
+[alt="GitHub Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #181b1f;
+    border-left-color: #d9dadb;
+}
+
+[alt="Twitch Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #3A2E5E;
+    border-left-color: #563194;
+}
+
+[alt="Steam Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #171a21;
+    border-left-color: #2a475e;
+}
+
+[alt="Spotify Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #2C523E;
+    border-left-color: #1ED760;
+}
+
+[alt="Twitter Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #266994;
+    border-left-color: #1DA1F2;
+}
+
+[alt="Reddit Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #7D442A;
+    border-left-color: #FF6314;
+}
+
+[alt="YouTube Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #772528;
+    border-left-color: #EE0F0F;
+}
+
+[alt="Battle.net Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #264659;
+    border-left-color: #009AE4;
+}
+
+[alt="Xbox Live Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #394E31;
+    border-left-color: #5DC21E;
+}
+
+[alt="Facebook Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #14223d;
+    border-left-color: #3A5998;
+}
+
+[alt="League of Legends Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #424491;
+    border-left-color: #676AE6;
+}
+
+[alt="Skype Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #106d8f;
+    border-left-color: #00AAE8;
+}
+
+[alt="GitLab Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #6E4330;
+    border-left-color: #FC6D26;
+}
+
+[alt="Minecraft Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #693037;
+    border-left-color: #EE303D;
+}
+
+[alt="osu! Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #5F3E51;
+    border-left-color: #EE65A2;
+}
+
+[alt="discord.bio Logo"] + .connectedAccountNameInner-1phBvE::after {
+    background: #3d4870;
+    border-left-color: #7289da;
+}
