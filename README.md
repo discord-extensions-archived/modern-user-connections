@@ -3,7 +3,7 @@
 # Refined User Connections
 Adds a bit of a boom-shaka-laka to those user connections.
 
-![Preview](./screenshots/screenshot.png)
+![Preview](./screenshots/preview.png)
 
 # Installation 
 Let's be real here, you want cooler connections, just admit it. For Powercord or Vizality installation, go to **Themes -> Open a CMD / Powershell / Terminal / Gitbash** in the folder, and enter the following:
