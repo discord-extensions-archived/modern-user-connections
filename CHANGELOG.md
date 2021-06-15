@@ -1,3 +1,10 @@
+# v1.3.1
+Some fixes and adjustments / changes.
+- Should now appear on the new user modal.
+    - This closes **[issue #4](https://github.com/Discord-Theme-Addons/refined-user-connections/issues/4)**.
+- Now using `@forward` and `@use` instead of `@import`.
+- Some color adjustments.
+
 # v1.3.0
 Now using `@each` instead of `@mixins`. I feel like this is a way better system, tho generally it does the same thing.
 
