@@ -13,11 +13,11 @@ git clone https://github.com/Discord-Theme-Addons/refined-user-connections
 
 **For [BetterDiscord](http://betterdiscord.app/):**
 - [Direct Download](https://github.com/Discord-Theme-Addons/refined-user-connections/releases/download/1.3.1/RefinedUserConections.theme.css)
-- [View Source](https://discord-theme-addons.github.io/gradientbuttons-v2/src/support/compiled.css)
+- [View Source](https://discord-theme-addons.github.io/refined-user-connections/src/support/compiled.css)
 
 **For [Stylus](https://github.com/openstyles/stylus):**
 1. Install the Stylus extension for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus).
-2. After installing, head over to [this link](https://discord-theme-addons.github.io/refined-user-connections/src/support/GradientButtons.user.css).
+2. After installing, head over to [this link](https://discord-theme-addons.github.io/refined-user-connections/src/support/RefinedUserConections.user.css).
 3. Press the "Install Style" button.
 
 # Credits
