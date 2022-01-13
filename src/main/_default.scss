@@ -13,7 +13,7 @@ $defaultConnections:
     'Skype' #106d8f #00AAE8;
 
 @each $name, $connectionBackground, $connectionBorder in $defaultConnections {
-    [alt="#{$name} Logo"] + .connectedAccountNameInner-2q3MVf::after {
+    [alt="#{$name} Logo"] + .connectedAccountNameInner-t24B11::after {
         background: $connectionBackground;
         border-left-color: $connectionBorder;
     }

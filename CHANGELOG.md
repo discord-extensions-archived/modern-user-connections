@@ -1,3 +1,7 @@
+# v1.4.0
+- Fixed theme being broken due to class reroll.
+- Minor file structure changes.
+
 # v1.3.1
 Some fixes and adjustments / changes.
 - Should now appear on the new user modal.
