@@ -1,0 +1,17 @@
+:root {
+    /* [ DEFAULT CONNECTIONS ] */
+    --connection-default: 235, calc(var(--saturation-factor,1)*86%), 65%;
+    --connection-github: 286, calc(var(--saturation-factor,1)*55%), 44%;
+    --connection-twitch: 264, calc(var(--saturation-factor,1)*100%), 64%;
+    --connection-steam: 195, calc(var(--saturation-factor,1)*48%), 46%;
+    --connection-spotify: 141, calc(var(--saturation-factor,1)*76%), 48%;
+    --connection-twitter: 204, calc(var(--saturation-factor,1)*88%), 53%;
+    --connection-reddit: 16, calc(var(--saturation-factor,1)*100%), 50%;
+    --connection-youtube: 358, calc(var(--saturation-factor,1)*71%), 50%;
+    --connection-battlenet: 202, calc(var(--saturation-factor,1)*40%), 25%;
+    --connection-xbox: 79, calc(var(--saturation-factor,1)*100%), 36%;
+    --connection-psn: 209, calc(var(--saturation-factor,1)*99%), 37%;
+    --connection-facebook: 214, calc(var(--saturation-factor,1)*89%), 52%;
+    --connection-league: 238, calc(var(--saturation-factor,1)*37%), 41%;
+    --connection-skype: 196, calc(var(--saturation-factor,1)*100%), 45%;
+}

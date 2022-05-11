@@ -1,0 +1,22 @@
+$default: (
+    'GitHub': var(--connection-github),
+    'Twitch': var(--connection-twitch),
+    'Steam': var(--connection-steam),
+    'Spotify': var(--connection-spotify),
+    'Twitter': var(--connection-twitter),
+    'Reddit': var(--connection-reddit),
+    'YouTube': var(--connection-youtube),
+    'Battle.net': var(--connection-battlenet),
+    'Xbox': var(--connection-xbox),
+    'PlayStation Network': var(--connection-psn),
+    'Facebook': var(--connection-facebook),
+    'League of Legends': var(--connection-league),
+    'Skype': var(--connection-skype)
+);
+
+@each $connection, $color in $default {
+    [alt="#{$connection} Logo"] + .connectedAccountNameInner-t24B11::before {
+        border-left-color: hsl($color);
+        background: hsla($color, 35%)
+    }
+}

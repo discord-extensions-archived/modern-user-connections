@@ -1,36 +1,28 @@
 .connectedAccount-1xKpli {
-    background-color: transparent;
     border: none;
-
-    .connectedAccountNameInner-t24B11 {
-        &::after {
-            z-index: 0;
-            content: '';
-            position: absolute;
-            border-radius: 2px;
-            border-left: solid 2px transparent;
-            margin-left: -40px;
-            height: 46px;
-            width: 260px;
-        }
-    }
-
-    .connectedAccountVerifiedIcon-3XCxT8 {
-        .flowerStar-2tNFCR path {
-            fill: rgba(255, 255, 255, 0.25);
-        }
-        .childContainer-U_a6Yh {
-            margin-top: 1px;
-        }
-    }
-
+    background: transparent;
     .connectedAccountIcon-2vls0t,
     .connectedAccountName-j0meX4,
-    .connectedAccountNameInner-t24B11 span,
-    .connectedAccountNameInner-t24B11 + .anchor-1MIwyf {
+    .anchor-1MIwyf {
         z-index: 1;
     }
     .connectedAccountIcon-2vls0t {
-        margin-left: 2px;
+        margin-left: 5px;
+    }
+
+    .connectedAccountNameInner-t24B11::before {
+        content: '';
+        position: absolute;
+        margin-left: -43px;
+        width: 262px;
+        height: 46px;
+        border-left: 2px solid hsl(var(--connection-default));
+        background-color: hsla(var(--connection-default), 35%);
+    }
+    .flowerStar-2tNFCR path {
+        fill: hsl(139, calc(var(--saturation-factor,1)*86%), 65%);
+    }
+    .childContainer-U_a6Yh svg path {
+        fill: hsl(206, calc(var(--saturation-factor,1)*9%), 15%);
     }
 }

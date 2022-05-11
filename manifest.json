@@ -1,9 +1,8 @@
 {
-    "name": "Refined User Connections",
-    "description": "Adds a bit of a boom-shaka-laka to those user connections.",
-    "version": "1.4.0",
-    "author": "LuckFire#4800",
-    "theme": "./src/_index.scss",
-    "consent": "true",
-    "license": "MIT"
+    "version": "2.0.0",
+    "author": "LuckFire",
+    "name": "Modern User Connections",
+    "description": "Updates Discord's user connections to feel more modern.",
+    "license": "MIT",
+    "theme": "./src/source.scss"
 }

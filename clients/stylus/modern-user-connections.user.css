@@ -1,0 +1,11 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         Modern User Connections
+    @description  Updates Discord's user connections to feel more modern.
+    @author       LuckFire#400
+    @namespace    https://github.com/discord-extensions/modern-user-connections
+    @version      2.0.0
+    ==/UserStyle== */
+
+   @import url('https://discord-extensions.github.io/modern-user-connections/src/source.css');
+}
