@@ -1,5 +1,5 @@
 :root {
-  /* [ DEFAULT CONNECTIONS ] */
+  /* || Default Connections */
   --connection-default: 235, calc(var(--saturation-factor,1)*86%), 65%;
   --connection-github: 286, calc(var(--saturation-factor,1)*55%), 44%;
   --connection-twitch: 264, calc(var(--saturation-factor,1)*100%), 64%;
