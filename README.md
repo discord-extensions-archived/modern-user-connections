@@ -26,3 +26,6 @@ https://github.com/discord-extensions/modern-user-connections
 [Snapper](https://github.com/snappercord/) for inspiring me to rewrite all of my READMEs.
 
 [Cynthia](https://github.com/cyyynthia) for finding a user with a Facebook connection, [NYRI4](https://github.com/NYRI4) for finding a user with a League of Legends connection, and [BenSegal855](https://github.com/BenSegal855) for finding a user with a Skype connection.
+
+# Support Server
+If you are having any issues with the theme, feel free to join the [support server](https://discord.gg/vYdXbEzqDs), or make an issue on this repository.
