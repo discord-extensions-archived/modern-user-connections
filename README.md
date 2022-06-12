@@ -4,7 +4,7 @@
 ### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
 Head over to your **Themes folder -> open your terminal of choice -> copy-paste the following, then press enter**:
 ```
-https://github.com/discord-extensions/modern-user-connections
+git clone https://github.com/discord-extensions/modern-user-connections
 ```
 
 ### **[BetterDiscord](https://betterdiscord.app/)**
@@ -18,14 +18,10 @@ https://github.com/discord-extensions/modern-user-connections
 2. Once you have the browser extension, head over to [this link](https://github.com/discord-extensions/modern-user-connections/raw/main/clients/stylus/modern-user-connections.user.css). It will open a new window to the page to install the style.
 3. Press the "Install Style" button.
 
-# Credits
-[Hoofer](https://github.com/HooferDevelops) for helping me figure out why styling was not applying properly.
-
-[Tropical](https://github.com/Tropix126) for helping me improve code.
-
-[Snapper](https://github.com/snappercord/) for inspiring me to rewrite all of my READMEs.
-
-[Cynthia](https://github.com/cyyynthia) for finding a user with a Facebook connection, [NYRI4](https://github.com/NYRI4) for finding a user with a League of Legends connection, and [BenSegal855](https://github.com/BenSegal855) for finding a user with a Skype connection.
+# Contributors
+|<a href="https://github.com/HooferDevelops"><img src="https://avatars.githubusercontent.com/u/60201971?v=4" width="90px" height="90px"></a>|<a href="https://github.com/Tropix126"><img src="https://avatars.githubusercontent.com/u/42101043?v=4" width="90px" height="90px"></a>|<a href="https://github.com/Snapperito"><img src="https://avatars.githubusercontent.com/u/52221287?v=4" width="90px" height="90px"></a>|<a href="https://github.com/cyyynthia"><img src="https://avatars.githubusercontent.com/u/9999055?v=4" width="90px" height="90px"></a>|<a href="https://github.com/NYRI4"><img src="https://avatars.githubusercontent.com/u/65369563?v=4" width="90px" height="90px"></a>|<a href="https://github.com/BenSegal855"><img src="https://avatars.githubusercontent.com/u/34194692?v=4" width="90px" height="90px"></a>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[HooferDevelops](https://github.com/HooferDevelops)|[Tropix126](https://github.com/Tropix126)|[Snapperito](https://github.com/Snapperito)|[Cynthia](https://github.com/cyyynthia)|[NYRI4](https://github.com/NYRI4)|[BenSegal855](https://github.com/BenSegal855)|
 
 # Support Server
 If you are having any issues with the theme, feel free to join the [support server](https://discord.gg/vYdXbEzqDs), or make an issue on this repository.
