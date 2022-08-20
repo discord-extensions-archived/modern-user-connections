@@ -11,7 +11,10 @@ $default: (
     'PlayStation Network': var(--connection-psn),
     'Facebook': var(--connection-facebook),
     'League of Legends': var(--connection-league),
-    'Skype': var(--connection-skype)
+    'Skype': var(--connection-skype),
+    'Samsung Galaxy': var(--connection-samsung),
+    'Epic Games': var(--connection-epicgames),
+    'Riot Games': var(--connection-riotgames)
 );
 
 @each $connection, $color in $default {
