@@ -16,95 +16,95 @@
   --connection-skype: 196, calc(var(--saturation-factor,1)*100%), 45%;
 }
 
-.connectedAccount-1xKpli {
-  border: none;
+.connectedAccountContainer-SlCC-S {
   background: transparent;
 }
-.connectedAccount-1xKpli .connectedAccountIcon-2vls0t,
-.connectedAccount-1xKpli .connectedAccountName-j0meX4,
-.connectedAccount-1xKpli .anchor-1MIwyf {
+.connectedAccountContainer-SlCC-S .connectedAccountIcon-1FXG0p,
+.connectedAccountContainer-SlCC-S .connectedAccountNameText-2m46Qn,
+.connectedAccountContainer-SlCC-S .anchor-1MIwyf {
   z-index: 1;
 }
-.connectedAccount-1xKpli .connectedAccountIcon-2vls0t {
+.connectedAccountContainer-SlCC-S .connectedAccountIcon-1FXG0p {
   margin-left: 5px;
 }
-.connectedAccount-1xKpli .connectedAccountNameInner-t24B11::before {
+.connectedAccountContainer-SlCC-S .connectedAccountNameContainer-EXbBUQ::before {
   content: "";
   position: absolute;
-  margin-left: -43px;
-  width: 262px;
+  margin-left: -45px;
+  margin-top: -13px;
+  width: 266px;
   height: 46px;
   border-left: 2px solid hsl(var(--connection-default));
   background-color: hsla(var(--connection-default), 35%);
 }
-.connectedAccount-1xKpli .flowerStar-2tNFCR path {
+.connectedAccountContainer-SlCC-S .flowerStar-2tNFCR path {
   fill: hsl(139, calc(var(--saturation-factor, 1) * 86%), 65%);
 }
-.connectedAccount-1xKpli .childContainer-U_a6Yh svg path {
+.connectedAccountContainer-SlCC-S .childContainer-U_a6Yh svg path {
   fill: hsl(206, calc(var(--saturation-factor, 1) * 9%), 15%);
 }
 
-[alt="GitHub Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="GitHub Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-github));
   background: hsla(var(--connection-github), 35%);
 }
 
-[alt="Twitch Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Twitch Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-twitch));
   background: hsla(var(--connection-twitch), 35%);
 }
 
-[alt="Steam Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Steam Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-steam));
   background: hsla(var(--connection-steam), 35%);
 }
 
-[alt="Spotify Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Spotify Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-spotify));
   background: hsla(var(--connection-spotify), 35%);
 }
 
-[alt="Twitter Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Twitter Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-twitter));
   background: hsla(var(--connection-twitter), 35%);
 }
 
-[alt="Reddit Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Reddit Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-reddit));
   background: hsla(var(--connection-reddit), 35%);
 }
 
-[alt="YouTube Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="YouTube Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-youtube));
   background: hsla(var(--connection-youtube), 35%);
 }
 
-[alt="Battle.net Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Battle.net Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-battlenet));
   background: hsla(var(--connection-battlenet), 35%);
 }
 
-[alt="Xbox Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Xbox Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-xbox));
   background: hsla(var(--connection-xbox), 35%);
 }
 
-[alt="PlayStation Network Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="PlayStation Network Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-psn));
   background: hsla(var(--connection-psn), 35%);
 }
 
-[alt="Facebook Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Facebook Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-facebook));
   background: hsla(var(--connection-facebook), 35%);
 }
 
-[alt="League of Legends Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="League of Legends Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-league));
   background: hsla(var(--connection-league), 35%);
 }
 
-[alt="Skype Logo"] + .connectedAccountNameInner-t24B11::before {
+[alt="Skype Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-skype));
   background: hsla(var(--connection-skype), 35%);
 }

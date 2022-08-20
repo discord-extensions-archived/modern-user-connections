@@ -1,20 +1,20 @@
-.connectedAccount-1xKpli {
-    border: none;
+.connectedAccountContainer-SlCC-S {
     background: transparent;
-    .connectedAccountIcon-2vls0t,
-    .connectedAccountName-j0meX4,
+    .connectedAccountIcon-1FXG0p,
+    .connectedAccountNameText-2m46Qn,
     .anchor-1MIwyf {
         z-index: 1;
     }
-    .connectedAccountIcon-2vls0t {
+    .connectedAccountIcon-1FXG0p {
         margin-left: 5px;
     }
 
-    .connectedAccountNameInner-t24B11::before {
+    .connectedAccountNameContainer-EXbBUQ::before {
         content: '';
         position: absolute;
-        margin-left: -43px;
-        width: 262px;
+        margin-left: -45px;
+        margin-top: -13px;
+        width: 266px;
         height: 46px;
         border-left: 2px solid hsl(var(--connection-default));
         background-color: hsla(var(--connection-default), 35%);

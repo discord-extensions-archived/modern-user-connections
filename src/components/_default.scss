@@ -15,7 +15,7 @@ $default: (
 );
 
 @each $connection, $color in $default {
-    [alt="#{$connection} Logo"] + .connectedAccountNameInner-t24B11::before {
+    [alt="#{$connection} Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
         border-left-color: hsl($color);
         background: hsla($color, 35%)
     }
