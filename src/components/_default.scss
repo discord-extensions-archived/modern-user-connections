@@ -12,9 +12,9 @@ $default: (
     'Facebook': var(--connection-facebook),
     'League of Legends': var(--connection-league),
     'Skype': var(--connection-skype),
-    'Samsung Galaxy': var(--connection-samsung),
     'Epic Games': var(--connection-epicgames),
-    'Riot Games': var(--connection-riotgames)
+    'Riot Games': var(--connection-riotgames),
+    'PayPal': var(--connection-paypal)
 );
 
 @each $connection, $color in $default {

@@ -14,9 +14,9 @@
   --connection-facebook: 214, calc(var(--saturation-factor,1)*89%), 52%;
   --connection-league: 238, calc(var(--saturation-factor,1)*37%), 41%;
   --connection-skype: 196, calc(var(--saturation-factor,1)*100%), 45%;
-  --connection-samsung: 231, calc(var(--saturation-factor,1)*78%), 35%;
   --connection-epicgames: 34, calc(var(--saturation-factor,1)*6%), 22%;
   --connection-riotgames: 349, calc(var(--saturation-factor,1)*100%), 46%;
+  --connection-paypal: 230, calc(var(--saturation-factor,1)*70%), 25%;
 }
 
 .connectedAccountContainer-SlCC-S {
@@ -112,11 +112,6 @@
   background: hsla(var(--connection-skype), 35%);
 }
 
-[alt="Samsung Galaxy Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
-  border-left-color: hsl(var(--connection-samsung));
-  background: hsla(var(--connection-samsung), 35%);
-}
-
 [alt="Epic Games Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-epicgames));
   background: hsla(var(--connection-epicgames), 35%);
@@ -125,4 +120,9 @@
 [alt="Riot Games Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-riotgames));
   background: hsla(var(--connection-riotgames), 35%);
+}
+
+[alt="PayPal Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
+  border-left-color: hsl(var(--connection-paypal));
+  background: hsla(var(--connection-paypal), 35%);
 }
