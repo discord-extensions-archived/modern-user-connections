@@ -11,11 +11,14 @@ $default: (
     'PlayStation Network': var(--connection-psn),
     'Facebook': var(--connection-facebook),
     'League of Legends': var(--connection-league),
-    'Skype': var(--connection-skype)
+    'Skype': var(--connection-skype),
+    'Epic Games': var(--connection-epicgames),
+    'Riot Games': var(--connection-riotgames),
+    'PayPal': var(--connection-paypal)
 );
 
 @each $connection, $color in $default {
-    [alt="#{$connection} Logo"] + .connectedAccountNameInner-t24B11::before {
+    [alt="#{$connection} Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
         border-left-color: hsl($color);
         background: hsla($color, 35%)
     }
