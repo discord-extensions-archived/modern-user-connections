@@ -14,7 +14,8 @@ $default: (
     'Skype': var(--connection-skype),
     'Epic Games': var(--connection-epicgames),
     'Riot Games': var(--connection-riotgames),
-    'PayPal': var(--connection-paypal)
+    'PayPal': var(--connection-paypal),
+    'Ebay': var(--connection-ebay)
 );
 
 @each $connection, $color in $default {

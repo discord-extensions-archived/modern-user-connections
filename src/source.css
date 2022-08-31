@@ -17,6 +17,7 @@
   --connection-epicgames: 34, calc(var(--saturation-factor,1)*6%), 22%;
   --connection-riotgames: 349, calc(var(--saturation-factor,1)*100%), 46%;
   --connection-paypal: 230, calc(var(--saturation-factor,1)*70%), 25%;
+  --connection-ebay: 211, calc(var(--saturation-factor,1)*100%), 41%;
 }
 
 .connectedAccountContainer-SlCC-S {
@@ -125,4 +126,9 @@
 [alt="PayPal Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
   border-left-color: hsl(var(--connection-paypal));
   background: hsla(var(--connection-paypal), 35%);
+}
+
+[alt="Ebay Logo"] + .connectedAccountNameContainer-EXbBUQ::before {
+  border-left-color: hsl(var(--connection-ebay));
+  background: hsla(var(--connection-ebay), 35%);
 }
