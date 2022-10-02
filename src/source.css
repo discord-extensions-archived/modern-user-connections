@@ -25,29 +25,21 @@
 }
 .connectedAccountContainer-3aLMHJ .connectedAccountIcon-3FdW8x,
 .connectedAccountContainer-3aLMHJ .connectedAccountNameText-tCbPXH,
-.connectedAccountContainer-3aLMHJ .anchor-1MIwyf, .connectedAccountContainer-3aLMHJ.discordMemberCreatedAt-31OkT7 > * {
+.connectedAccountContainer-3aLMHJ .anchor-1MIwyf {
   z-index: 1;
 }
-.connectedAccountContainer-3aLMHJ .connectedAccountIcon-3FdW8x,
-.connectedAccountContainer-3aLMHJ .discordMemberCreatedAtIcon-126if8 {
+.connectedAccountContainer-3aLMHJ .connectedAccountIcon-3FdW8x {
   margin-left: 5px;
 }
-.connectedAccountContainer-3aLMHJ .connectedAccountNameContainer-3e9mvO::before, .connectedAccountContainer-3aLMHJ.discordMemberCreatedAt-31OkT7::before {
+.connectedAccountContainer-3aLMHJ .connectedAccountNameContainer-3e9mvO::before {
   content: "";
   position: absolute;
-  width: 266px;
-  border-left: 2px solid hsl(var(--connection-default));
-  background-color: hsla(var(--connection-default), 35%);
-}
-.connectedAccountContainer-3aLMHJ .connectedAccountNameContainer-3e9mvO::before {
   margin-left: -45px;
   margin-top: -13px;
+  width: 266px;
   height: 46px;
-}
-.connectedAccountContainer-3aLMHJ.discordMemberCreatedAt-31OkT7::before {
-  margin-left: -8px;
-  margin-top: -8px;
-  height: 58px;
+  border-left: 2px solid hsl(var(--connection-default));
+  background-color: hsla(var(--connection-default), 35%);
 }
 .connectedAccountContainer-3aLMHJ .flowerStar-2tNFCR path {
   fill: hsl(139, calc(var(--saturation-factor, 1) * 86%), 65%);

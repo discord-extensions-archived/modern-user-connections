@@ -3,32 +3,22 @@
 
     .connectedAccountIcon-3FdW8x,
     .connectedAccountNameText-tCbPXH,
-    .anchor-1MIwyf,
-    &.discordMemberCreatedAt-31OkT7 > * {
+    .anchor-1MIwyf {
         z-index: 1;
     }
-    .connectedAccountIcon-3FdW8x,
-    .discordMemberCreatedAtIcon-126if8 {
+    .connectedAccountIcon-3FdW8x {
         margin-left: 5px;
     }
 
-    .connectedAccountNameContainer-3e9mvO::before,
-    &.discordMemberCreatedAt-31OkT7::before {
+    .connectedAccountNameContainer-3e9mvO::before {
         content: '';
         position: absolute;
-        width: 266px;
-        border-left: 2px solid hsl(var(--connection-default));
-        background-color: hsla(var(--connection-default), 35%);
-    }
-    .connectedAccountNameContainer-3e9mvO::before {
         margin-left: -45px;
         margin-top: -13px;
+        width: 266px;
         height: 46px;
-    }
-    &.discordMemberCreatedAt-31OkT7::before {
-        margin-left: -8px;
-        margin-top: -8px;
-        height: 58px;
+        border-left: 2px solid hsl(var(--connection-default));
+        background-color: hsla(var(--connection-default), 35%);
     }
 
     .flowerStar-2tNFCR path {
