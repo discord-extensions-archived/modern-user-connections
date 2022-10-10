@@ -22,6 +22,7 @@
 
 .connectedAccountContainer-3aLMHJ {
   background: transparent;
+  border: unset;
 }
 .connectedAccountContainer-3aLMHJ .connectedAccountIcon-3FdW8x,
 .connectedAccountContainer-3aLMHJ .connectedAccountNameText-tCbPXH,
@@ -35,9 +36,9 @@
   content: "";
   position: absolute;
   margin-left: -45px;
-  margin-top: -13px;
-  width: 266px;
-  height: 46px;
+  margin-top: -14px;
+  width: 270px;
+  height: 48px;
   border-left: 2px solid hsl(var(--connection-default));
   background-color: hsla(var(--connection-default), 35%);
 }
