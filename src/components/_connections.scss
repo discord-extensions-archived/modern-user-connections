@@ -1,22 +1,24 @@
-.connectedAccountContainer-3aLMHJ {
-    background: transparent;
+.connectedAccountContainer-2TWiXT {
     border: unset;
+    z-index: 1;
 
-    .connectedAccountIcon-3FdW8x,
-    .connectedAccountNameText-tCbPXH,
-    .anchor-1MIwyf {
-        z-index: 1;
-    }
-    .connectedAccountIcon-3FdW8x {
+    .connectedAccountIcon-2szOw- {
         margin-left: 5px;
     }
+    .connectedAccountChildren-2jEgw3 {
+        margin-left: 37px;
+    }
+    &.connectedAccountContainerWithMetadata-3NgWeX .connectedAccountNameContainer-3v4pIj::before {
+        margin-top: -8px;
+    }
 
-    .connectedAccountNameContainer-3e9mvO::before {
+    .connectedAccountNameContainer-3v4pIj::before {
         content: '';
         position: absolute;
+        z-index: -1;
         margin-left: -45px;
         margin-top: -14px;
-        width: 270px;
+        width: 262px;
         height: 48px;
         border-left: 2px solid hsl(var(--connection-default));
         background-color: hsla(var(--connection-default), 35%);

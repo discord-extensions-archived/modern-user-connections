@@ -15,11 +15,14 @@ $default: (
     'Epic Games': var(--connection-epicgames),
     'Riot Games': var(--connection-riotgames),
     'PayPal': var(--connection-paypal),
-    'Ebay': var(--connection-ebay)
+    'eBay': var(--connection-ebay),
+    'TikTok': var(--connection-tiktok),
+    'Instagram': var(--connection-instagram),
+    'Crunchyroll': var(--connection-crunchyroll)
 );
 
 @each $connection, $color in $default {
-    [alt="#{$connection} Logo"] + .connectedAccountNameContainer-3e9mvO::before {
+    [alt="#{$connection} Logo"] + .connectedAccountNameContainer-3v4pIj::before {
         border-left-color: hsl($color);
         background: hsla($color, 35%)
     }
