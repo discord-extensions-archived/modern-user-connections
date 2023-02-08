@@ -1,5 +1,10 @@
 <img src="./assets/banner.png">
 
+# Addon Archived
+Discord has updated user connections quite a bit, and the way the changes are done just dont allow me to actually fix it so it can work the way it is intended. To go in depth, connections with metadata would not have the background for the connection scale right. I've tried a few other hacky methods, but none of them (at least the ones within my knowledge) work. The elements would have to be strutured a bit differenlty, and there probably is some way to actually fix it, but it's not really worth it to me.
+
+TL;DR This addon has been archived and will no longer be maintained due to a Discord update.
+
 # Downloads
 ### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
 Head over to your **Themes folder -> open your terminal of choice -> copy-paste the following, then press enter**:
